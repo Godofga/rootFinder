@@ -1,7 +1,14 @@
 import rootFunctions as rootF
+import linearSystems as linearS
+import numpy as np
+import adjustment as adjust
+import math
 
+import sys
 def main():
-    print("Wohoo")
+    '''
+    Ponha seu código
+    '''
 
 if __name__ == '__main__':
-    main()
+    main2()
